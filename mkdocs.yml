@@ -3,7 +3,7 @@ site_description: Spencer's personal blog and website
 site_url: https://spencerwoo.com
 copyright: Copyright &copy; 2020 - Present @ Spencer Woo
 
-site_dir: 'W:/blog/'
+site_dir: 'W:/'
 
 nav:
   - index.md
